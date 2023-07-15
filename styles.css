@@ -57,6 +57,7 @@ body {
 
 .rating .rating__text {
     font-size: 20px;
+    
 }
 
 h1 {
@@ -91,6 +92,18 @@ h1 {
 .rating:hover {
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.feedback__text {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+    
+}
+
+.fa-heart{
+    font-size: 45px;
+    color: red;
 }
 
 
