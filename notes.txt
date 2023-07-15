@@ -1,0 +1,6 @@
+1> element.nextElementSibling to access next sibling of a element.
+
+2> element.parentNode to access parent element of current element
+
+3>button.active{transform:scale(0.9)} to add click effect toa button.
+
